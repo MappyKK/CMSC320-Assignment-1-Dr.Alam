@@ -28,3 +28,8 @@ control through each commit that is being logged with each branch
 that was merged still existing seperately while rebasing allows 
 you have cleaner history due to less merge commits making it easier 
 to understand with you having to avoid fixing merge conflicts. 
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to improve my pandas, SQL, data cleaning,
+visualization, machine learning, and deep learning skills.
