@@ -1,0 +1,6 @@
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: One field that data science can be applied to is the health
+field. More specifically it help analyse and forecast disease
+outbreaks using predictive models in order to help health care workers
+prepare. For example, if it was not for data science we would not know the extent of the covid-19 outbreak and the effects that it has left on the world.    
