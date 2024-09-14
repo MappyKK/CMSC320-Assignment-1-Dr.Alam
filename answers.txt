@@ -15,3 +15,16 @@ outbreaks using predictive models in order to help health care workers
 prepare. For example, if it was not for data science we would not 
 know the extent of the covid-19 outbreak and the effects or impacts
 that it has left on the world.
+
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging is basically combining the changes made in two
+branches into one while rebashing is when you take the changes from
+one branch and reapply them on top of another branch. Each one has
+their their own advantages, for example, merging allows the user to
+preserve the history of changes allowing you to easily do version
+control through each commit that is being logged with each branch
+that was merged still existing seperately while rebasing allows 
+you have cleaner history due to less merge commits making it easier 
+to understand with you having to avoid fixing merge conflicts. 
