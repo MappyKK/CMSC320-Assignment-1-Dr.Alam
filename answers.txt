@@ -1,0 +1,5 @@
+Q1: Why might we consider using git?
+
+Answer: Because it is free to use! It is open source, it allows 
+for collaboration, version control, as well as branching and merging.
+In our case it will be very useful to use to collaborate with group members when working on our data science project.
